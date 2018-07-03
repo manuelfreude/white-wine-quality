@@ -1,5 +1,5 @@
 # White wine quality exploratory data analysis (EDA)
-## R code to explore ~5k white wines dataset
+## R code to explore ~5k white wines dataset and initial regression analysis
 
 ## Univariate commented plots section
 Several variables of the dataset will be plotted in histograms to assess their fit for subsequent analysis. Where required, variables will be transformed in order to meet normal distribution targets. Boxplots will also be used to visualize distributions where needed. Variables in scope for this section include white wine quality, white wine fixed acidity, white wine volatily acidity, white wine citric acid, white wine residual sugar, white wine chlorides, white wine free sulfur dioxide, white wine total sulfur dioxide, white wine density, white wine pH value, white wine sulfates and white wine alcohol. 
