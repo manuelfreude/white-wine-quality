@@ -4,9 +4,12 @@
 ## R project summary
 
 - Conducted visual and statistical analyses of variables' univariate attributes
-- Visualized potential relations between variables in bi- and multivariate plots
+- Visualized potential relations between variables in bi- and multivariate plots, example provided below
 - Applied linear regression techniques to confirm assumed relations in the dataset
 
+## Quality vs. density scatterplot
+
+![Scatter](https://github.com/manuelfreude/white-wine-quality/blob/master/Quality_vs_density_visualization.png)
 
 ## Univariate commented plots section
 Several variables of the dataset will be plotted in histograms to assess their fit for subsequent analysis. Where required, variables will be transformed in order to meet normal distribution targets. Boxplots will also be used to visualize distributions where needed. Variables in scope for this section include white wine quality, white wine fixed acidity, white wine volatily acidity, white wine citric acid, white wine residual sugar, white wine chlorides, white wine free sulfur dioxide, white wine total sulfur dioxide, white wine density, white wine pH value, white wine sulfates and white wine alcohol.
