@@ -11,6 +11,8 @@
 
 ![Scatter](https://github.com/manuelfreude/white-wine-quality/blob/master/Quality_vs_density_visualization.png)
 
+The plot visualizes the negative relation between quality and density, basically no matter which quality we are looking at. The facet wrapper shows that the relation is valid for many quality levels, the highest level 9 only has a small number of data points.
+
 ## Univariate commented plots section
 Several variables of the dataset will be plotted in histograms to assess their fit for subsequent analysis. Where required, variables will be transformed in order to meet normal distribution targets. Boxplots will also be used to visualize distributions where needed. Variables in scope for this section include white wine quality, white wine fixed acidity, white wine volatily acidity, white wine citric acid, white wine residual sugar, white wine chlorides, white wine free sulfur dioxide, white wine total sulfur dioxide, white wine density, white wine pH value, white wine sulfates and white wine alcohol.
 
