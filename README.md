@@ -1,4 +1,5 @@
 # White wine quality exploratory data analysis (EDA)
+Project context: Udacity Data Analyst Nanodegree
 ## R code to explore ~5k white wines dataset and initial regression analysis
 
 ## R project summary
